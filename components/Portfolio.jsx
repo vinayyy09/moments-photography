@@ -22,6 +22,7 @@ const Portfolio = () => {
             height="200"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
 
@@ -32,6 +33,7 @@ const Portfolio = () => {
             height="200"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
 
@@ -42,6 +44,7 @@ const Portfolio = () => {
             height="200"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
 
@@ -52,6 +55,7 @@ const Portfolio = () => {
             height="200"
             layout="responsive"
             objectFit="cover"
+            alt="/"
           />
         </div>
       </div>
